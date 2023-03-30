@@ -20,12 +20,27 @@ membuat routing dengan membuat file index.php
 ![image](https://user-images.githubusercontent.com/116700466/228706736-c49c2b0f-2a70-4013-9542-ef1e8a4616d1.png)
 
 
-
-
-
-
-
-
+Aktivasi mod_rewrite (.htaccess) alamat file tersebut xampp/apache/conf/httpd
+hilangkan # pada line 163 untuk mengaktifkan nya
 ![image](https://user-images.githubusercontent.com/116700466/228706681-c7388afb-d1c4-4a19-b162-bacc36dd6f9f.png)
+
+Lalu buat file baru bernama .htaccess pada folder tersebut
+![image](https://user-images.githubusercontent.com/116700466/228777135-68c1c77c-7257-4200-91a0-78cd45c74b32.png)
+
+
+maka hasilnya seperti ini
+![image](https://user-images.githubusercontent.com/116700466/228776378-607a07c3-00fd-4e11-be99-6e84a38616cd.png)
+
+selajutnya saya akan menambahkan modularisasi pada praktikum 3
+
+sama seperti yang sebelumnya saya menambahkan file .htaccess pada folder tersebut
+![image](https://user-images.githubusercontent.com/116700466/228778202-3d0ccef8-46c6-45ef-b4ec-5e76a9a57b77.png)
+
+hasilnya
+![image](https://user-images.githubusercontent.com/116700466/228779485-4d5dd2f2-c7ba-4b8f-a7ae-ae7e6b74570d.png)
+
+terima kasih
+
+
 
 
